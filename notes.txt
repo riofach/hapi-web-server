@@ -1,0 +1,3 @@
+Membuat HTTP Server Menggunakan Hapi
+Untuk membuat HTTP server menggunakan Hapi, kita tidak lagi menggunakan core module http secara langsung. 
+Kita akan membuat server melalui modul pihak ketiga @hapi/hapi
